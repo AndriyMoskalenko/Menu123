@@ -1,0 +1,2 @@
+def Exit():
+    print("Выход")
